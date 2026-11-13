@@ -1,0 +1,127 @@
+[
+ {
+  "id": "w01",
+  "word": "penguin",
+  "aliases": []
+ },
+ {
+  "id": "w02",
+  "word": "umbrella",
+  "aliases": []
+ },
+ {
+  "id": "w03",
+  "word": "lighthouse",
+  "aliases": []
+ },
+ {
+  "id": "w04",
+  "word": "banana",
+  "aliases": []
+ },
+ {
+  "id": "w05",
+  "word": "bicycle",
+  "aliases": [
+   "bike"
+  ]
+ },
+ {
+  "id": "w06",
+  "word": "volcano",
+  "aliases": []
+ },
+ {
+  "id": "w07",
+  "word": "octopus",
+  "aliases": [
+   "octopi",
+   "octopuses"
+  ]
+ },
+ {
+  "id": "w08",
+  "word": "candle",
+  "aliases": []
+ },
+ {
+  "id": "w09",
+  "word": "giraffe",
+  "aliases": []
+ },
+ {
+  "id": "w10",
+  "word": "pillow",
+  "aliases": []
+ },
+ {
+  "id": "w11",
+  "word": "bridge",
+  "aliases": []
+ },
+ {
+  "id": "w12",
+  "word": "pineapple",
+  "aliases": []
+ },
+ {
+  "id": "w13",
+  "word": "toothbrush",
+  "aliases": []
+ },
+ {
+  "id": "w14",
+  "word": "glacier",
+  "aliases": []
+ },
+ {
+  "id": "w15",
+  "word": "owl",
+  "aliases": []
+ },
+ {
+  "id": "w16",
+  "word": "ladder",
+  "aliases": []
+ },
+ {
+  "id": "w17",
+  "word": "mushroom",
+  "aliases": []
+ },
+ {
+  "id": "w18",
+  "word": "anchor",
+  "aliases": []
+ },
+ {
+  "id": "w19",
+  "word": "kangaroo",
+  "aliases": []
+ },
+ {
+  "id": "w20",
+  "word": "piano",
+  "aliases": []
+ },
+ {
+  "id": "w21",
+  "word": "waterfall",
+  "aliases": []
+ },
+ {
+  "id": "w22",
+  "word": "pretzel",
+  "aliases": []
+ },
+ {
+  "id": "w23",
+  "word": "compass",
+  "aliases": []
+ },
+ {
+  "id": "w24",
+  "word": "scarecrow",
+  "aliases": []
+ }
+]
