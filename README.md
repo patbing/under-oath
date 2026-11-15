@@ -4,7 +4,7 @@
 
 **Twenty questions between two AIs, checked.**
 
-One model keeps a sealed word. Another gets 20 yes/no questions to find it. Most "two AIs talk" demos end when the transcript gets funny. This one ends when code says so: the guess is judged by string rules, the word is sealed with a hash before turn 1, and every answer the Keeper gives is asked again by a referee model that never saw the game. You race the Asker to the word. You pay for live games with your own Pollen (BYOP).
+One model keeps a sealed word. Another gets 20 yes/no questions to find it. The game ends when code says so: the guess is judged by string rules, the word is sealed with a hash before turn 1, and every answer the Keeper gives is asked again by a referee model that never saw the game. You race the Asker to the word. You pay for live games with your own Pollen (BYOP).
 
 **Live app:** https://patbing.github.io/under-oath/ · Pollinations quest [#19178](https://github.com/pollinations/pollinations/issues/19178)
 
